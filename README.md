@@ -19,7 +19,7 @@ of (1)", don't actually divide or reduce the fraction to decimal
 `Python 3` must be installed in your local machine.
 
 #### How to run ?
-To run the assignment execute following command:
+To run the assignment first clone the repo in the local machine and execute following command:
 ```
 python <path to the solution.py> <No.of days i.e N>
 e.g.:- python solution.py 5
